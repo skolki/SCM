@@ -1,5 +1,6 @@
 Script works as macros, so it can be problematic using PC during script execution
 Your steam must not be running
+And make sure you are using ENG keyboard layout
 
 1. Install all of these
 
